@@ -1,10 +1,18 @@
-h1,p{
+h1{
 color:rgb(233, 89, 228);
 background-color: darkslateblue;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 border-color: rgb(0, 251, 255);
 border-style: groove;
 border-width:2px;;
+}
+p{
+    font-size:22px;
+    color:lawngreen;
+    background-color: lightseagreen;
+    border-color: mediumvioletred;
+    border-width:3px;
+    border-style:outset;
 }
 
 
